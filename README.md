@@ -8,11 +8,11 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by pouria farahani
+- Developed by Mohammad Amin Banam
 
-- Created - 2022-11-26
+- Created - 2023-06-18
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - Html , css
 
 - Hooks Used : useState 
 
